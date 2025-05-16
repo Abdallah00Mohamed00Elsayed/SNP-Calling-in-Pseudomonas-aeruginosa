@@ -1,9 +1,6 @@
 # SNP-Calling-in-Pseudomonas-aeruginosa
 
 
-
-# SNP Calling Pipeline for *Pseudomonas aeruginosa*
-
 This pipeline identifies single nucleotide polymorphisms (SNPs) in paired-end sequencing data using standard bioinformatics tools.
 
 ---
